@@ -1,15 +1,14 @@
 # Udacity Flashcards
 
-This app was built using `create-react-native-app` as a part of Udacity's React Nanodegree.  
+Este repositório foi criado utilizando `create-react-native-app`. Trata-se de um aplicativo de perguntas e respostas através de 'cartas de baralho'.
+  
+## Iniciando o projeto
 
-The project meets the specified requirements defined by [Udacity Rubric](https://review.udacity.com/#!/rubrics/1021/view)  
-## Installation guide  
+* Clone o repositório 
+* Entre pelo terminal (como administrador) na pasta do projeto 
+* Efetua o comando: `yarn install` para instalar as dependências.
+* A aplicação foi testa em um Moto G5 Plus(Android 7.0.0) através do aplicativo EXPO
+* Instale no seu celular o aplicativo [expo](https://expo.io/) 
+* Na pasta do projeto rode o comando (pelo terminal como administrador) `yarn start`
+* Teste através do aplicativo Expo
 
-* clone the repo - `https://github.com/AdithyaBhat17/udacity-flashcards.git` 
-* change directory - `cd udacity-flashcards` 
-* install dependencies - `npm install`
-* start dev server - `expo start` or `npm start`
-
-## Platform
-
-This app was developed and tested using [expo](https://expo.io/) running on Moto G5 Plus(Android 7.0.0) 
